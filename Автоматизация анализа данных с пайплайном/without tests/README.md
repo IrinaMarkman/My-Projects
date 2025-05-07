@@ -72,14 +72,10 @@ full_pipeline() — запускает весь процесс
 Установите зависимости:
 
 bash
-Копировать
-Редактировать
 pip install pandas numpy matplotlib dtale
 Запуск пайплайна:
 
 python
-Копировать
-Редактировать
 from pipeline import full_pipeline
 
 full_pipeline()
