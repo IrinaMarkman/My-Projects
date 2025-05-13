@@ -89,5 +89,5 @@ http://127.0.0.1:8050/
 pytest
 ```
 ## Результат тестирования
-
+![Результат](screenshots/test_results.png)
 ---
