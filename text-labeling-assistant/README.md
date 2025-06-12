@@ -49,7 +49,7 @@
 
 5. Запустите приложение:
     ```bash
-    streamlit run app.py
+    streamlit run ml_flan_gpt_app.py
     ```
 
 6. Откройте в браузере страницу, обычно это [http://localhost:8501](http://localhost:8501)
