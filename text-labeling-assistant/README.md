@@ -84,7 +84,7 @@
 ## Структура проекта
 
 ```
-├── app.py                   # Основной Streamlit интерфейс
+├── ml_flan_gpt_app.py       # Основной Streamlit интерфейс
 ├── gpt_api.py               # Работа с GPT-3.5 API
 ├── local_flant5.py          # Локальная функция разметки FLAN
 ├── sentiment_classifier.pkl # Предобученная ML модель
