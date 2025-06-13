@@ -33,8 +33,8 @@
 3. Установите зависимости:
 
    pip install -r requirements.txt
-
-4. В корне проекта уже есть файл `.env`. Добавьте туда свои данные:
+   
+5. В корне проекта уже есть файл `.env`. Добавьте туда свои данные:
 
    OPENAI_API_KEY=ваш_ключ_от_openai  
    GOOGLE_CREDENTIALS_PATH=путь_к_файлу_credentials.json  
