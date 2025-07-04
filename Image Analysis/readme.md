@@ -20,6 +20,6 @@ pip install -r requirements.txt
 ```
 3. Запустите Jupyter Notebook:
 ```bash
-jupyter notebook analysis.ipynb
+jupyter notebook image_search_analysis.ipynb
 ```
 Следуйте инструкциям в ноутбуке для воспроизведения анализа.
